@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    padding-top: 20px;
+    background-color: #1f2430;
+
+    color: white;
+}
+#title{
+    margin-bottom: 20px;
+    text-align: center;
+}
+.container{
+    max-width: 1400px;
+    margin: 0 auto;
+}
+#password{
+    color: #f26c49;
+}
+.sub-text{
+    font-size: 18px;
+
+    padding-right: 10px;
+}

@@ -17,8 +17,7 @@ document.getElementById("title").innerHTML =
 ;
 
 document.getElementById("password").innerHTML =
-    `Questa è la tua password sicurissima: 
-    ${firstName + lastName + color + number}`
+    `${firstName + lastName + color + number}`
 ;
 
 
